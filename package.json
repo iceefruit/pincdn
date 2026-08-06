@@ -1,7 +1,7 @@
 {
   "name": "pincdn",
   "version": "1.0.0",
-  "description": "A self-hosted image library with 7,000 hand-picked images across 7 categories.",
+  "description": "A self-hosted static image library featuring 7,000 hand-picked images across 7 categories. Served over GitHub CDN with zero rate limits.",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
