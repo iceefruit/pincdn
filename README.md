@@ -8,6 +8,7 @@ No API key. No rate limits. Just raw GitHub CDN URLs that always work.</p>
 [![](https://img.shields.io/badge/7%2C000%20images-a78bfa?style=for-the-badge&logoColor=white)](./index.json)
 [![](https://img.shields.io/badge/7%20categories-818cf8?style=for-the-badge&logoColor=white)](./index.json)
 [![](https://img.shields.io/badge/GitHub%20Raw%20CDN-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/iceefruit/pincdn/main)
+[![](https://img.shields.io/npm/v/pincdn?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/pincdn)
 [![](https://img.shields.io/badge/MIT%20License-4f46e5?style=for-the-badge&logoColor=white)](./LICENSE)
 
 </div>
