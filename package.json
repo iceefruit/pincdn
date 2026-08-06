@@ -1,0 +1,33 @@
+{
+  "name": "pincdn",
+  "version": "1.0.0",
+  "description": "A self-hosted image library with 7,000 hand-picked images across 7 categories.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iceefruit/pincdn.git"
+  },
+  "keywords": [
+    "cdn",
+    "images",
+    "pfp",
+    "discord-bot",
+    "wallpapers",
+    "anime",
+    "avatars"
+  ],
+  "author": "iceefruit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iceefruit/pincdn/issues"
+  },
+  "homepage": "https://github.com/iceefruit/pincdn#readme"
+}
